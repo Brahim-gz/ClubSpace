@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ClubSpace - ENSAM Casablanca</title>
-    <link rel="icon" type="image/png" href="photos/logo.png">
+    <link rel="icon" type="image/png" href="assets/logo.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -100,7 +100,7 @@
                 <!-- A&M Mechatronics -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover" data-aos="fade-up" data-aos-delay="100">
                     <div class="h-48 relative overflow-hidden">
-                        <img src="photos/mechatronics.png" alt="A&M Mechatronics" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
+                        <img src="assets/mechatronics.png" alt="A&M Mechatronics" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
                     </div>
                     <div class="p-8">
                         <h3 class="text-2xl font-bold mb-4 gradient-text">A&M Mechatronics</h3>
@@ -114,7 +114,7 @@
                 <!-- CRIAM -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover" data-aos="fade-up" data-aos-delay="200">
                     <div class="h-48 relative overflow-hidden">
-                        <img src="photos/robotique.png" alt="Club Robotique & Innovation A&M" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
+                        <img src="assets/robotique.png" alt="Club Robotique & Innovation A&M" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
                     </div>
                     <div class="p-8">
                         <h3 class="text-2xl font-bold mb-4 gradient-text">Club Robotique & Innovation A&M</h3>
@@ -128,7 +128,7 @@
                 <!-- Aeronautics & Aerospace -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover" data-aos="fade-up" data-aos-delay="300">
                     <div class="h-48 relative overflow-hidden">
-                        <img src="photos/Aeronautics.png" alt="Aeronautics & Aerospace Club" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
+                        <img src="assets/Aeronautics.png" alt="Aeronautics & Aerospace Club" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
                     </div>
                     <div class="p-8">
                         <h3 class="text-2xl font-bold mb-4 gradient-text">Aeronautics & Aerospace Club</h3>
@@ -139,7 +139,7 @@
                 <!-- Enactus -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover" data-aos="fade-up" data-aos-delay="400">
                     <div class="h-48 relative overflow-hidden">
-                        <img src="photos/enactus.png" alt="Enactus ENSAM Casablanca" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
+                        <img src="assets/enactus.png" alt="Enactus ENSAM Casablanca" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
                     </div>
                     <div class="p-8">
                         <h3 class="text-2xl font-bold mb-4 gradient-text">Enactus ENSAM Casablanca</h3>
@@ -153,7 +153,7 @@
                 <!-- Rotaract -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover" data-aos="fade-up" data-aos-delay="500">
                     <div class="h-48 relative overflow-hidden">
-                        <img src="photos/rotaract.png" alt="Rotaract ENSAM Casablanca" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
+                        <img src="assets/rotaract.png" alt="Rotaract ENSAM Casablanca" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
                     </div>
                     <div class="p-8">
                         <h3 class="text-2xl font-bold mb-4 gradient-text">Rotaract ENSAM Casablanca</h3>
@@ -167,7 +167,7 @@
                 <!-- Sawaid Al Amal -->
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover" data-aos="fade-up" data-aos-delay="600">
                     <div class="h-48 relative overflow-hidden">
-                        <img src="photos/sawaid.png" alt="Club Sawaid Al Amal" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
+                        <img src="assets/sawaid.png" alt="Club Sawaid Al Amal" class="w-full h-full object-cover transform hover:scale-110 transition duration-500">
                     </div>
                     <div class="p-8">
                         <h3 class="text-2xl font-bold mb-4 gradient-text">Club Sawaid Al Amal</h3>

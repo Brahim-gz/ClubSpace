@@ -67,25 +67,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['reserver'])) {
 $club_image = '';
 switch(strtolower($event['club_organisateur'])) {
     case 'a&m mechatronics':
-        $club_image = './photos/mechatronics.png';
+        $club_image = './assets/mechatronics.png';
         break;
     case 'criam':
-        $club_image = './photos/robotique.png';
+        $club_image = './assets/robotique.png';
         break;
     case 'aeronautics & aerospace':
-        $club_image = './photos/Aeronautics.png';
+        $club_image = './assets/Aeronautics.png';
         break;
     case 'enactus':
-        $club_image = './photos/enactus.png';
+        $club_image = './assets/enactus.png';
         break;
     case 'rotaract':
-        $club_image = './photos/rotaract.png';
+        $club_image = './assets/rotaract.png';
         break;
     case 'club sawaid al amal':
-        $club_image = './photos/sawaid.png';
+        $club_image = './assets/sawaid.png';
         break;
     default:
-        $club_image = './photos/default-club.png';
+        $club_image = './assets/default-club.png';
 }
 ?>
 
@@ -95,7 +95,7 @@ switch(strtolower($event['club_organisateur'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ClubSpace - Plus</title>
-    <link rel="icon" type="image/png" href="photos/logo.png">
+    <link rel="icon" type="image/png" href="assets/logo.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
